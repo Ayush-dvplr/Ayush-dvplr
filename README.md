@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **solidity**
 
-- 👯 I’m looking to collaborate on [Daily planer blockchain](https://github.com/Ayush-dvplr/intermediate_eth_ass2.git)
+- 👯 I’m looking to collaborate on [Daily planer blockchain](https://github.com/Ayush-dvplr/daily-planner.git)
 
 - 🤝 I’m looking for help with [Menthelp](https://github.com/Ayush-dvplr/Menthelp.git)
 
