@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayush-dvplr&label=Profile%20views&color=0e75b6&style=flat" alt="ayush-dvplr" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayush-dvplr" alt="ayush-dvplr" /></a> </p>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=ayush-dvplr" alt="ayush-dvplr" /> </p>
 
 - 🔭 I’m currently working on **A diverse trip booking system.**
 
