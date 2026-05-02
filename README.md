@@ -18,7 +18,7 @@
 
 - 🔭 **Current Focus:** Building a **Diverse Trip Booking System** and scaling full-stack solutions.
 - ⚡ **Specialization:** High-performance web apps (MERN) and cross-platform mobile apps (React Native).
-- 🔐 **Cyber Security:** Recently reported a vulnerability to Meta (Samsung S24 Locked Chat Bypass).
+- 🔐 **Cyber Security:** Reported a vulnerability to Meta regarding Samsung S24 Locked Chat Bypass.
 - ⛓️ **Learning:** Masterminding **Solidity** for decentralized applications.
 - 💬 **Expertise:** Ask me about **System Design, API Optimization, and UI/UX.**
 - 🎯 **Goal:** Bridging the gap between AI-driven intelligence and robust web architecture.
@@ -39,21 +39,15 @@
 ### 📊 GitHub Activity
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=ayush-dvplr&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Ayush's GitHub Stats" />
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-dvplr&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Most Used Languages" />
-      </td>
-    </tr>
-  </table>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-dvplr&theme=tokyonight&hide_border=true&area=true" width="100%" />
 </div>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dvplr&theme=tokyonight&hide_border=true" width="100%" />
-</p>
+<br />
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dvplr&theme=tokyonight&hide_border=true" width="49%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-dvplr&theme=tokyonight" width="49%" />
+</div>
 
 ---
 
