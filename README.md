@@ -38,11 +38,6 @@
 
 ### 📊 GitHub Activity
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush-dvplr&theme=tokyonight&hide_border=true&area=true" width="100%" />
-</div>
-
-<br />
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dvplr&theme=tokyonight&hide_border=true" width="49%" />
