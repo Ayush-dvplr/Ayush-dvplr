@@ -45,17 +45,8 @@
 <br />
 
 <div align="center">
-  <!-- This card hides PRs/Issues and focuses on Stars, Commits, and your Ranking -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-dvplr&show_icons=true&theme=tokyonight&hide_border=true&hide=prs,issues&rank_icon=github" width="49%" />
-  <!-- This card highlights your coding consistency -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dvplr&theme=tokyonight&hide_border=true" width="49%" />
-</div>
-
-<br />
-
-<div align="center">
-  <!-- Added Top Languages to replace the empty space and show off your MERN expertise -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-dvplr&layout=compact&theme=tokyonight&hide_border=true" width="100%" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayush-dvplr&theme=tokyonight" width="49%" />
 </div>
 
 ---
