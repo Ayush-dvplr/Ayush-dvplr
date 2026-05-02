@@ -38,10 +38,18 @@
 
 ### 📊 GitHub Activity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ayush-dvplr&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-dvplr&layout=compact&theme=tokyonight&hide_border=true" width="45%" />
-</p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=ayush-dvplr&show_icons=true&theme=tokyonight&hide_border=true" width="400" alt="Ayush's GitHub Stats" />
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush-dvplr&layout=compact&theme=tokyonight&hide_border=true" width="300" alt="Most Used Languages" />
+      </td>
+    </tr>
+  </table>
+</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ayush-dvplr&theme=tokyonight&hide_border=true" width="100%" />
